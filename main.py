@@ -6,7 +6,7 @@ A few portion of the code is from chivas🚬#9292 (862443325999153182), Someone1
 and from Stack Overflow
 ------------------------------------------------------------------
 How to use:
-Run the code to download the "config.json" file. If you encounter an error
+Run the code to create the "config.json" file. If you encounter an error
 (something like, Invalid token passed), open the "config.json" file and paste
 your token into the "token" part
 
