@@ -6,5 +6,6 @@
   "mass_delete_emoji": "yes",
   "spam_dm": "yes",
   "mass_create_role": "yes",
-  "mass_channel_create": "yes"
+  "mass_channel_create": "yes",
+  "allowed_user": [690765019226570843]
 }
