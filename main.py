@@ -1,7 +1,7 @@
 """
 Project Name: Discord Nuke Bot
 Created by: 『Nguyên』#1092 (690765019226570843)
-Required modules: discord.py, json, os, requests
+Required modules: discord.py, json, os
 A few portion of the code is from chivas🚬#9292 (862443325999153182), Someone1611#8712 (699162995871449129)
 and from Stack Overflow
 ------------------------------------------------------------------
@@ -45,7 +45,6 @@ import discord
 from discord.ext import commands
 import json
 import os
-import requests
 
 # Variable set ==========
 
