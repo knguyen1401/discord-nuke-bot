@@ -5,5 +5,6 @@
   "mass_ban": "no",
   "mass_delete_emoji": "yes",
   "spam_dm": "yes",
-  "mass_create_role": "yes"
+  "mass_create_role": "yes",
+  "mass_channel_create": "yes"
 }
