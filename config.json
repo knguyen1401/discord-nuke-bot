@@ -1,0 +1,9 @@
+{
+  "token": "Your bot token here",
+  "mass_del_category": "yes",
+  "mass_del_channel": "yes",
+  "mass_ban": "no",
+  "mass_delete_emoji": "yes",
+  "spam_dm": "yes",
+  "mass_create_role": "yes",
+}
